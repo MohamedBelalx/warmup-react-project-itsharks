@@ -1,2 +1,7 @@
 @import url("primereact/resources/themes/soho-dark/theme.css");
 @import url("/node_modules/primeflex/primeflex.css");
+
+
+body {
+    margin: 0;
+}
